@@ -1,0 +1,7 @@
+{
+  "name": "ikarolaborda/base-docker-infra",
+  "description": "Docker infrastructure provision for most PHP projects",
+  "require": {
+    "php": ">=8.2"
+  }
+}
